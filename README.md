@@ -31,15 +31,15 @@ Please Download the [Criteo](https://www.kaggle.com/mrkmakr/criteo-dataset) and 
 
 ### Search
 
-- For Criteo dataset, run `python field/CriteoSearch.py`
-- For Avazu dataset, run `python field/AvazuSearch.py`
+- For Criteo dataset, run `python learn/CriteoSearch.py`
+- For Avazu dataset, run `python learn/AvazuSearch.py`
 
 
 
 ### Re-train
 
-- For Criteo dataset, run `python field/CriteoTrain.py --load XXX --model DNN_cart --alpha_mode 0`
-- For Avazu dataset, run `python field/AvazuTrain.py --load XXX --model DNN_cart --alpha_mode 0`
+- For Criteo dataset, run `python learn/CriteoTrain.py --load XXX --model DNN_cart --alpha_mode 0`
+- For Avazu dataset, run `python learn/AvazuTrain.py --load XXX --model DNN_cart --alpha_mode 0`
 
 Here `XXX` indicates the logs dictionary generated during the search stage.
 
@@ -47,8 +47,8 @@ Here `XXX` indicates the logs dictionary generated during the search stage.
 
 ### Baseline Running
 
-- For Criteo dataset, run `python field/CriteoTrain.py --model YYY`
-- For Avazu dataset, run `python field/AvazuTrain.py --model YYY`
+- For Criteo dataset, run `python learn/CriteoTrain.py --model YYY`
+- For Avazu dataset, run `python learn/AvazuTrain.py --model YYY`
 
 Here `YYY` could be `{LR, FM, FNN, IPNN, DeepFM, PIN, Poly2, DNN_cart}`
 
