@@ -1,4 +1,7 @@
+ [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/memorize-factorize-or-be-naive-learning/click-through-rate-prediction-on-avazu)](https://paperswithcode.com/sota/click-through-rate-prediction-on-avazu?p=memorize-factorize-or-be-naive-learning)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/memorize-factorize-or-be-naive-learning/click-through-rate-prediction-on-ipinyou)](https://paperswithcode.com/sota/click-through-rate-prediction-on-ipinyou?p=memorize-factorize-or-be-naive-learning)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/memorize-factorize-or-be-naive-learning/click-through-rate-prediction-on-criteo)](https://paperswithcode.com/sota/click-through-rate-prediction-on-criteo?p=memorize-factorize-or-be-naive-learning) 
+
 # OptInter
+
 This repository contains PyTorch Implementation of ICDE 2022 paper: 
 
 *Memorize, factorize, or be naive: Learning optimal feature interaction methods for CTR Prediction*. 
