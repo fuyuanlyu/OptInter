@@ -78,7 +78,7 @@ Here `YYY` could be `{LR, FM, FNN, IPNN, DeepFM, PIN, Poly2, DNN_cart}`
                   Methods for {CTR} Prediction},
   booktitle    = {38th {IEEE} International Conference on Data Engineering, {ICDE} 2022},
   pages        = {1450--1462},
-  address	  = {Kuala Lumpur, Malaysia},
+  address      = {Kuala Lumpur, Malaysia},
   publisher    = {{IEEE}},
   year         = {2022},
   url          = {https://doi.org/10.1109/ICDE53745.2022.00113},
