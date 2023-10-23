@@ -65,13 +65,26 @@ Here `YYY` could be `{LR, FM, FNN, IPNN, DeepFM, PIN, Poly2, DNN_cart}`
 
 ## Citation
 
-```
-​```
-@article{lyu2021memorize,
-  title={Memorize, Factorize, or be Na$\backslash$" ive: Learning Optimal Feature Interaction Methods for CTR Prediction},
-  author={Lyu, Fuyuan and Tang, Xing and Guo, Huifeng and Tang, Ruiming and He, Xiuqiang and Zhang, Rui and Liu, Xue},
-  journal={arXiv preprint arXiv:2108.01265},
-  year={2021}
+````
+@inproceedings{OptInter,
+  author       = {Fuyuan Lyu and
+                  Xing Tang and
+                  Huifeng Guo and
+                  Ruiming Tang and
+                  Xiuqiang He and
+                  Rui Zhang and
+                  Xue Liu},
+  title        = {Memorize, Factorize, or be Naive: Learning Optimal Feature Interaction
+                  Methods for {CTR} Prediction},
+  booktitle    = {38th {IEEE} International Conference on Data Engineering, {ICDE} 2022},
+  pages        = {1450--1462},
+  address	  = {Kuala Lumpur, Malaysia},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/ICDE53745.2022.00113},
+  doi          = {10.1109/ICDE53745.2022.00113},
+  timestamp    = {Sun, 30 Jul 2023 12:39:38 +0200},
+  biburl       = {https://dblp.org/rec/conf/icde/LyuTGTHZL22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-​```
-```
+````
